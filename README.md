@@ -1,4 +1,4 @@
-# MVDR-EcFA-ISAC
+# EcFA-ISAC
 
 **Enhanced Firefly Algorithm with Minimum Variance Distortionless Response Refresh for Full-Duplex MIMO Integrated Sensing and Communication Systems**
 
