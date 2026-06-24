@@ -1,10 +1,10 @@
-# EcFA-ISAC
+# MVDR-EcFA-ISAC
 
-**Enhanced Firefly Algorithm for Full-Duplex MIMO Integrated Sensing and Communication Systems**
+**Enhanced Firefly Algorithm with Minimum Variance Distortionless Response Refresh for Full-Duplex MIMO Integrated Sensing and Communication Systems**
 
 ## Overview
 
-EcFA-ISAC is a research-oriented implementation of an Enhanced Firefly Algorithm (EcFA) for solving the joint waveform design and resource allocation problem in Full-Duplex (FD) MIMO Integrated Sensing and Communication (ISAC) systems.
+MVDR-EcFA-ISAC is a research-oriented implementation of an Enhanced Firefly Algorithm (EcFA) for solving the joint waveform design and resource allocation problem in Full-Duplex (FD) MIMO Integrated Sensing and Communication (ISAC) systems.
 
 The proposed framework jointly optimizes:
 
